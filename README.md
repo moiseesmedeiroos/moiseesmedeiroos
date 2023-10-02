@@ -17,4 +17,4 @@ Dicas e conselhos? Me contata pelos meios abaixo, vou ficar muito grato :)
 
 
 ## GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moiseesmedeiroos&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moiseesmedeiroos&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl)
