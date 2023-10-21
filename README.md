@@ -1,7 +1,7 @@
 # Moisés Medeiros
-Oi! Sou formado em Engenharia Civil e estou em processo de aprendizado buscando minha transição de carreira para áreas de tecnologia. 
+Oi! Sou formado em Engenharia Civil e estou em processo de aprendizado para transição de carreira para área de relacionamento com o cliente no mercado da tecnologia, por isto venho me capacitando em Customer Success e programação web.
 
-Dicas e conselhos? Me contata pelos meios abaixo, vou ficar muito grato :)
+Dicas e conselhos? Me contata pelos meios abaixo :)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=moiseesmedeiroos&theme=radical&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
 
